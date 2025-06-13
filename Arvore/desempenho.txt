@@ -1,0 +1,4 @@
+AVL vs TreeMap
+Busca AVL: 1 ms
+Busca TreeMap: 1 ms
+Remocao AVL: 4 ms
